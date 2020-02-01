@@ -2,4 +2,4 @@ Arquivo novo
 
 modificação na branch v2.
 
-Modificação na branch master, conflito sdasdasd.
+Modificação na branch v2, esperado conflito.
