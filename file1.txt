@@ -2,4 +2,4 @@ Arquivo novo
 
 modificação na branch v2.
 
-Modificação na branch master, vai dar conflito.
+Modificação na branch v2.
