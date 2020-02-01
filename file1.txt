@@ -1,8 +1,7 @@
 Arquivo novo 
 
-modificação na branch v2.
+modificação na branch master.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> alteração
+
+Incluindo conflito.
