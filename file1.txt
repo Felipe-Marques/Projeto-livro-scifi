@@ -4,9 +4,13 @@ modificação na branch master.
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Incluindo conflito.
 =======
+=======
+
+>>>>>>> Alteração para conflito
 incluindo conflito na branch.
 
 >>>>>>> Alteração para conflito
